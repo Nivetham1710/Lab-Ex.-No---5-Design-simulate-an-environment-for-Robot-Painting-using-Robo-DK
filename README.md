@@ -115,18 +115,6 @@ an estimated cycle time will be displayed.
 
 Create Targets on Surface
 The Create Targets on Surface feature, is useful for applications such as painting or inspection:
-1. Select Program Teach Target(s) on Surface (Ctrl+Shift+T)
-2. Move the mouse cursor over the part to see a preview of what the robot looks like when it reaches the
-part
-3. Select a few points on the object (left click). Each mouse left click will define a new target keeping the Z
-axis of the TCP normal to the surface (perpendicular to the surface).
-4. If necessary, adjust the orientation around the Z axis by moving the wheel on the left panel or pressing
-the left/right keys.
-5. Hold Alt to move an existing target
-6. Hold Alt+Shift to move an existing target while keeping it on the surface
-7. Select Esc key or right click on the screen and select Done to exit the Create Targets on Surface mode
-8. ![image](https://user-images.githubusercontent.com/36288975/173729366-e0d49a75-454d-4366-b7f5-1e02de369d1d.png
-Similar to the previous operations:
 1. With the robot placed at the last target, move the robot upwards by increasing the Z coordinate of the
 TCP with respect to the reference frame in the robot panel (highlighted case in the next image)
 2. Select Program Add Program, or the appropriate button in the toolbar.
